@@ -5,4 +5,9 @@
 ![image](https://github.com/sean910719/smart-car/assets/97289002/2e8d89a5-7ff3-41de-aa30-dcab83cedc42)
 ![image](https://github.com/sean910719/smart-car/assets/97289002/2ed5e7f5-2b82-4fcc-bc85-4100ef7e90d4)
    
-以辨識點協助機器人進行路線行動，透過辨識點的形狀、顏色、大小等作為辨識標的，作為路線判斷的方式
+以辨識點協助機器人進行路線行動，透過辨識點的形狀、顏色、大小、位置等作為辨識標的，作為路線判斷的方式
+![image](https://github.com/sean910719/smart-car/assets/97289002/3296289e-8151-4340-b0a3-1f54f85d3a77)
+![image](https://github.com/sean910719/smart-car/assets/97289002/10efe9d0-e2c4-4e6c-a481-3bf14d1cb110)
+
+
+最後透過ESP32控制馬達進行移動
